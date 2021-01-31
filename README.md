@@ -2,7 +2,8 @@
 
 未修改版源码，可直接在浏览器运行
 
-在线玩：[https://daxigua.liyupi.com](https://daxigua.liyupi.com)
+在线玩：[小游戏：合成大西瓜]( https://jackkuo666.github.io/DaXiGua001/index.html)
+
 
 
 ### 本地启动
